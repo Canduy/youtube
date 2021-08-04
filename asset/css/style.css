@@ -533,6 +533,20 @@ nav{
 .on-notifi{
     display: block;
 }
+.notifi-number{
+    position: absolute;
+    right: 85px;
+    top: 24%;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    line-height: 18px;
+    font-size: 10px;
+    text-align: center;
+    cursor: pointer;
+    background-color: #c00;
+    color: #fff;
+}
 @media (max-width: 900px){
     .play-video{
         flex-basis: 100%;
