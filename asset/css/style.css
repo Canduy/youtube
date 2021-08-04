@@ -592,6 +592,9 @@ nav{
     .des{
         margin-top: 10px;
     }
+    .notifi-number{
+        display: none;
+    }
 }
 iframe{
     width: 560px;
